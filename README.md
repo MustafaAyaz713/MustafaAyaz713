@@ -1,4 +1,4 @@
-### Hi there 👋, Hi !! I'm Mustafa Ayaz
+### Hi !! I'm Mustafa Ayaz👋
 #### 🎗️ About Me 🎗️
 ![🎗️ About Me 🎗️](https://www.linkpicture.com/q/Black-Modern-Vlogger-YouTube-Banner.png)
 
