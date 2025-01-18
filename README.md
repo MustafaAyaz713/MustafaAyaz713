@@ -53,13 +53,6 @@ I am studying Istanbul Sabahattin University  software engireering at final year
 src="https://img.shields.io/github/followers/MustafaAyaz713?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MustafaAyaz713&label=Profile%20views&color=0e75b6&style=flat" alt="MustafaAyaz713" /></p>
 
-## Projects
-
-
-
-### Badges
-
-<b>My GitHub Stats</b>
 
 ## My GitHub Stats
 
