@@ -4,7 +4,7 @@ I am studying Istanbul Sabahattin University  software engireering at final year
 
 - 🌍 I'm based in İstanbul, Turkey
 - ✉️ You can contact me at [mustafayaz713@gmail.com](mailto:mustafayaz713@gmail.com)
-- 📄 You can reach my CV from [Drive](https://drive.google.com/file/d/1LROVgKD4pCK54CNylG53kuy6cxIHxwYq/view?usp=sharing)
+- 📄 You can reach my CV from [Drive](https://drive.google.com/file/d/1Eaxb--uDqZ04JCdzRi0Bo-GQqDV0gFfV/view?usp=sharing)
 - 🧠 I'm learning LLM
 - 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 - ⚡ I love archery and playing video games.
