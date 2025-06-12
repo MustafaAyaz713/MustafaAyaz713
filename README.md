@@ -6,7 +6,7 @@ I am studying Istanbul Sabahattin University  software engireering at final year
 - ✉️ You can contact me at [mustafayaz713@gmail.com](mailto:mustafayaz713@gmail.com)
 - 📄 You can reach my CV from [Drive](https://drive.google.com/file/d/1XZVptKjxY_cpizh8Mmpz_Fy69QoDScGb/view?usp=sharing)
 - 🧠 I'm learning LLM
-- 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+- 🤝 I'm open to collaborating on exciting projects as a backend developer, designer or dev rel.
 - ⚡ I love archery and playing video games.
 
 ### Socials
