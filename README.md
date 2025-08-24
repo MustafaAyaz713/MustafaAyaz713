@@ -1,11 +1,11 @@
 # Hi My name is Mustafa AYAZ
 
-I am studying Istanbul Sabahattin University  software engireering at final year.
+I graduated from Istanbul Sabahattin Zaim University in Software Engineering, and I am currently pursuing a Master’s degree in Computer Engineering (with thesis) at Bursa Technical University.
 
 - 🌍 I'm based in İstanbul, Turkey
 - ✉️ You can contact me at [mustafayaz713@gmail.com](mailto:mustafayaz713@gmail.com)
 - 📄 You can reach my CV from [Drive](https://drive.google.com/file/d/1jIR7pmIF1i_Sc8RyXdmUo6jOLVX65oah/view?usp=sharing)
-- 🧠 I'm learning LLM
+- 🧠 I'm learning .Net 
 - 🤝 I'm open to collaborating on exciting projects as a backend developer, designer or dev rel.
 - ⚡ I love archery and playing video games.
 
@@ -69,9 +69,14 @@ I am studying Istanbul Sabahattin University  software engireering at final year
   </a>
 
   <!-- Backend Teknolojileri -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-  </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
+</a>
+
+
 
   <!-- Veritabanları -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
