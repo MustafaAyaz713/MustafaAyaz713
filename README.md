@@ -1,128 +1,107 @@
-# Hi My name is Mustafa AYAZ
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:1e3a8a,100:3382ed&height=200&section=header&text=Mustafa%20AYAZ&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Research%20Assistant%20%C2%B7%20Computer%20Engineering%20%40%20%C4%B0Z%C3%9C&descAlignY=58&descSize=16" alt="header" />
+</p>
 
-I graduated from Istanbul Sabahattin Zaim University in Software Engineering, and I am currently pursuing a Master’s degree in Computer Engineering (with thesis) at Bursa Technical University.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3382ED&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;Recommender+Systems+%26+Multi-Armed+Bandits;NLP+%26+LLM+Applications+(Turkish);Full-Stack+%7C+Self-Hosting+%7C+Homelab" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🌍 I'm based in İstanbul, Turkey
-- ✉️ You can contact me at [mustafayaz713@gmail.com](mailto:mustafayaz713@gmail.com)
-- 📄 You can reach my CV from [Drive](https://drive.google.com/file/d/1jIR7pmIF1i_Sc8RyXdmUo6jOLVX65oah/view?usp=sharing)
-- 🧠 I'm learning .Net 
-- 🤝 I'm open to collaborating on exciting projects as a backend developer, designer or dev rel.
-- ⚡ I love archery and playing video games.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafayaz713"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="http://www.instagram.com/mustafayaz713"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:mustafayaz713@gmail.com"><img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1jIR7pmIF1i_Sc8RyXdmUo6jOLVX65oah/view?usp=sharing"><img src="https://img.shields.io/badge/CV-3382ed?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
+</p>
 
-### Socials
+---
+
+## 👋 About Me
+
+I'm a **Research Assistant** in the Department of Computer Engineering at **Istanbul Sabahattin Zaim University (İZÜ)**, where I also graduated in **Software Engineering**. I'm currently pursuing a **Master's degree in Computer Science and Engineering** at İZÜ.
+
+- 🔬 **Research:** modelling users from implicit behavioural signals, recommender systems & multi-armed bandits, NLP / LLM applications in Turkish
+- 🧭 **Current project:** *Keşif Akışı*, a personalised discovery feed that infers students' vocational interests from implicit signals (keystroke & mouse dynamics, LLM chat), built on Holland RIASEC + Thompson sampling
+- 👨‍🏫 **Teaching assistant for:** Natural Language Processing · Analysis of Algorithms · Artificial Neural Networks · Computer Networks (lab)
+- 🇪🇺 **Erasmus:** 2-month internship in Germany (student) · Erasmus+ staff mobility in Spain (research assistant)
+- 🏠 Building a **Raspberry Pi homelab** and self-hosting everything I can
+- 🌍 Based in **İstanbul, Türkiye**
+- ⚡ Fun facts: archery, video games, anime & K-drama, football
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🗓️ **Sınav Otomasyon** | Automatically builds the university exam-week schedule (time slots, rooms, invigilators) with constraint programming | Python · FastAPI · OR-Tools CP-SAT · PostgreSQL · React |
+| 📝 **ocrPOC** | Reads exam papers with a vision LLM and analyses program / course learning outcomes | Laravel 12 · Flask · Groq (Llama 4 Scout) |
+| 🌳 **[Kampüs Çardak](https://cardak.izu.edu.tr)** | Campus social network for İZÜ: web + mobile | Laravel API · React · Expo |
+| 🎬 **Kesit Rejisi** | Turns football highlights into commented vertical shorts with AI | yt-dlp · Whisper · LLM · ffmpeg · FastAPI |
+| 🈯 **Altyazı Çeviri** | Nightly EN→TR subtitle translation pipeline for my media server | Sonarr · Bazarr · Groq LLM · cron |
+| 🗺️ **Voyager** | Smart route & travel planner | Next.js · React · OSM / OSRM · Overpass |
+| 🖼️ **[vitrin](https://github.com/MustafaAyaz713/vitrin)** | AI poster generation service for small businesses | JavaScript |
+| 🛠️ **[service-management-system](https://github.com/MustafaAyaz713/service-management-system)** | Technical service & device registration management | .NET Web API · C# |
+
+---
+
+## 🛠️ Skills
+
+**Languages**
 
 <p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/MustafaAyaz713" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-
-  <!-- Instagram -->
-  <a href="http://www.instagram.com/mustafayaz713" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-    </picture>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mustafayaz713" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,php,js,ts,cs,c,cpp,java,bash&theme=dark" alt="Languages" />
 </p>
 
-
-
-### Skills
+**Backend & Frontend**
 
 <p align="left">
-  <!-- Programlama Dilleri -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-
-  <!-- Backend Teknolojileri -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-</a>
-
-
-
-  <!-- Veritabanları -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-
-  <!-- DevOps ve Araçlar -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,laravel,nodejs,express,dotnet,react,nextjs,vite,tailwind&theme=dark" alt="Frameworks" />
 </p>
 
+**AI / ML**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="AI/ML" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OR-Tools" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-1c1917?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
 </p>
 
+**Databases**
 
-<p align="center"><a href="https://www.github.com/MustafaAyaz713" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MustafaAyaz713?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MustafaAyaz713&label=Profile%20views&color=0e75b6&style=flat" alt="MustafaAyaz713" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,firebase&theme=dark" alt="Databases" />
+</p>
 
+**DevOps & Tools**
 
-## My GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,raspberrypi,cloudflare,git,figma&theme=dark" alt="DevOps" />
+</p>
 
-<a href="http://www.github.com/MustafaAyaz713">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaAyaz713&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="MustafaAyaz713's GitHub stats" />
-</a>
+---
 
-<a href="http://www.github.com/MustafaAyaz713">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyaz713&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+## 📊 My GitHub Stats
 
-<a href="https://github.com/MustafaAyaz713" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyaz713&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MustafaAyaz713&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyaz713&layout=compact&langs_count=8&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyaz713&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MustafaAyaz713?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=MustafaAyaz713&label=Profile%20views&color=3382ed&style=for-the-badge" alt="Profile views" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,50:1e3a8a,100:1c1917&height=100&section=footer" alt="footer" />
+</p>
