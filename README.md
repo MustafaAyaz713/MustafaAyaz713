@@ -28,7 +28,7 @@ I'm a **Research Assistant** in the Department of Computer Engineering at **Ista
 - 🇪🇺 **Erasmus:** 2-month internship in Germany (student) · Erasmus+ staff mobility in Spain (research assistant)
 - 🏠 Building a **Raspberry Pi homelab** and self-hosting everything I can
 - 🌍 Based in **İstanbul, Türkiye**
-- ⚡ Fun facts: archery, video games, anime & K-drama, football
+- ⚡ Fun facts: archery, video games, football
 
 ---
 
